@@ -1,4 +1,4 @@
 
 # **Topic 1.1: Introduction to Computer Vision  and Image Processing**
 
-https://github.com/NashEsguerra/CSST106-CS4B/blob/main/Introduction%20to%20Computer%20Vision.mp4
+https://github.com/NashEsguerra/CSST106-CS4B/issues/1#issue-2510026633
