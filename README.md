@@ -1,5 +1,7 @@
 
-#  **Introduction to Computer Vision  and Image Processing**
+# **CSST106-CS4B: Machine Problem No. 1: Exploring the Role of Computer Vision and Image Processing in AI**
+
+**Esguerra, Nashrudin Maverick A.**
 
 [https://github.com/NashEsguerra/CSST106-CS4B/issues/1#issue-2510026633](https://github.com/user-attachments/assets/d4d2a52f-0924-473f-8735-7d46e03f9ced)
 
